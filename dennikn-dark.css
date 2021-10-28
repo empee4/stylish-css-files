@@ -1,0 +1,143 @@
+@-moz-document domain("dennikn.sk"),
+domain("cynickaobluda.dennikn.sk"),
+domain("denikn.cz") {
+    html,
+    body {
+        color: #ffffff !important;
+        background-color: #333 !important;
+        background: #333 !important;
+        border: 0 !important;
+    }
+    header.menu {
+        background: #333;
+    }
+    .b {
+        background: #333!important;
+    }
+    .a_art_t {
+        color: #eee!important;
+    }
+    .a_art__sticky {
+        background: none!important;
+        color: #fff!important;
+    }
+    .a_mpm {
+        color: #eee!important;
+    }
+    .e_mpm {
+        background-color: #333!important;
+    }
+    a.e_terms_author {
+        color: #bf2134;
+    }
+    .e_heading {
+        color: #eee!important;
+    }
+    .s_h_mnu_top ul,
+    .s_h_usr_top ul {
+        box-shadow: 0 0 10px rgb(0 0 0);
+        color: #eee;
+        background: #111;
+    }
+    .a_single {
+        color: #c5c5c5;
+    }
+    .a_single .e_title,
+    .e_title {
+        color: #f8f8f8;
+    }
+    .a_single h1,
+    .a_single h2,
+    .a_single h3,
+    .a_single h4,
+    .a_single h5,
+    .a_single h6 {
+        color: #f8f8f8;
+    }
+    .e_heading a:focus,
+    .e_heading a {
+        color: #bf2134;
+    }
+    .e_follow:before {
+        border: 1px solid #6f6f6f!important;
+        color: #bf2134!important;
+        background: #5f5f5f!important;
+    }
+    .b_single ._pop_trg:after {
+        border: 1px solid #6f6f6f!important;
+        background: #5f5f5f!important;
+    }
+    .e_unlock:after {
+        border: 1px solid #6f6f6f!important;
+        background: #5f5f5f!important;
+    }
+    .e_save:after {
+        border: 1px solid #6f6f6f!important;
+        background: #5f5f5f!important;
+    }
+    .b_single_h .e_terms {
+        background-color: #5f5f5f!important;
+    }
+    .e_terms__scroll:after {
+        background: linear-gradient(to right, rgba(255, 255, 255, 0), #333);
+    }
+    .e_terms_posted {
+        color: #000;
+    }
+    .s_h_mnu_top ul:before,
+    .s_h_usr_top ul:before {
+        font-size: 50px;
+        color: #80091d;
+    }
+    .b__border {
+        border-width: 1px;
+        border-style: solid;
+        border-color: #5f5f5f85;
+    }
+    .e_art>*+* {
+        border-top: 1px solid #5f5f5f85;
+    }
+    .b_mpm__index .b_mpm_f:before {
+        background: linear-gradient(to bottom, rgba(246, 246, 246, 0), #333);
+    }
+    .b_mpm_more {
+        background-color: #333;
+    }
+    .b_mpm_f {
+        border-top: 1px solid #eaeaea;
+        background: #333;
+    }
+    .e_lock__shade:before {
+        background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #333);
+    }
+    .a_art__link {
+        background: rgb(35 35 35 / 90%);
+    }
+    /* mnt.sk */
+    h1.title .text {
+        color: #eee;
+    }
+    header .filter {
+        background: #000!important;
+    }
+    form .actions {
+        background: #000!important;
+        background-color: #000!important;
+    }
+    section .timeline {
+        background: #333!important;
+    }
+    article .minute,
+    .sticky {
+        background: #000!important;
+    }
+    section .important {
+        background: #555!important;
+    }
+    section .aside {
+        background: #777!important;
+    }
+    section .latest {
+        background: #666!important;
+    }
+}

@@ -1,0 +1,93 @@
+@-moz-document domain("tyzden.sk") {
+.header {
+     color: #aaa !important;
+     background: #222 !important;
+     background-color: #222!important;
+}
+
+.quick-menu {
+     background: #bf1f10 !important;
+     background-color: #bf1f10!important;
+}
+
+body, html {
+     color: #aaa !important;
+     background: #222 !important;
+     background-color: #222!important;
+}
+/*
+body .layout{
+     color: #aaa !important;
+     background: #222 !important;
+     background-color: #222!important;
+}
+*/
+.toplist__post--bordered-bottom {
+    border-bottom: 1px solid #111!important;
+    background-color: #111!important;
+}
+
+.teaser-container--news {
+    background: #222;
+    height: 100%;
+}
+
+.teaser-container--subsequent {
+    background: #111!important;
+}
+
+/* .teraz najčítanejšie */
+.toplist__post--filled-background {
+    background-color: #111;
+    border-bottom: 1px solid #111;
+}
+
+a{
+     color: #666 !important;
+}
+
+.main-menu .main-menu__item a:link {
+    color: #bbb !important;
+}
+
+a:hover{
+     color: #bbb !important;
+}
+
+h1{
+    color: #bbb !important;
+}
+
+.toplist-post{
+    background: #333;
+}
+/*
+.teaser .teaser-wrapper {
+    background: #222!important;
+    background-color: #222!important;
+}
+*/
+.teaser a:link{
+    color: #bbb !important;
+}
+
+.teaser a:visited{
+    color: #aaa !important;
+}
+
+.toplist a:link{
+    color: #bbb !important;
+}
+
+.toplist a:visited{
+    color: #aaa !important;
+}
+
+.button-link{
+    color: #000 !important;
+}
+
+.main-menu a:link{
+    color: #000 !important;
+}
+}
